@@ -17,7 +17,7 @@ Fifth, there is no "not found" or "error" function in the search results. This w
 Therefore to test the effectivenes, I will conduct a usability test. It will carefully measure the user's effectiveness, efficiency, and satisfaction of the website. The test will begin with informed consent. For task 1, I will ask the user to perform a search for "Chocolate Cake" and see how accurate the search results are. It will also allow the user to provide feedbacks for what needs to be enhanced and their satisfaction of the search results. For task 2, I will ask the user to look for "halloween recipes" to test the website efficiency of user's search. It will help me to analyze how the easy the website is usable. Then, I will ask the user to look for the "shopping" options on the website. It will test the flow of how easy it leads the user to make purchase. From these questions, I will be able to see how easy or difficult it is to navigate through the website. It will lead on to further examination of enhancing the usability for the users.
 
 
-### Methodology
+## Methodology
 
 For the Usability Test, I wil conduct the test in my room at my house. 
 I will use my personal Macbook Pro by using Camtasia 2020 for recording the process. 
