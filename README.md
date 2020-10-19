@@ -1,8 +1,8 @@
 # DH 150 Assignment 2- Gee Yun Chae
 
-## Pilot Usability Test
+# Pilot Usability Test
 
-### Introduction
+## Introduction
 
 Delish.com is a cooking recipe website that introduce variety of features for the users. All the recipes are introduced in video instruction along with approximate time length for all the dishes. The website provides seasonal recipes and information about the current food trend to the users. The user is able to search for specific recipe that they seek or get inspiration for their meal.
 
@@ -25,18 +25,18 @@ I will use my personal Macbook Pro by using Camtasia 2020 for recording the proc
 The usability test will be a pilot test. The process will start off with informed consent, pre-test questionnaire, three tasks, post-test questionnaire and followed by confidential demographic data. By the process, the user will be able to get a sense of the website and provide their feedbacks on effectiveness, efficiency, and satisfaction of their experience of the website. 
 
 
-### Link to UT Survey
+## Link to UT Survey
 
 https://forms.gle/Hjq4tSKLjiy6XcK57
 
 
-### Link to UT Video
+## Link to UT Video
 
 https://drive.google.com/file/d/1SI4lviCJBj92LqO98RWFdtrQtUD3eAQY/view?usp=sharing
 
 
 
-### Reflection
+## Reflection
 
 During the usability test, all the process went very well. However, throughout the process I was able to find minor errors and typos in the survey. I also thought that some wordings or explanation might have not been very clear to the user. At the end of the test, I struggled a little to end the recording because of connection issues. For further tesings, I would have to ensure all these mistakes for better and accurate results. As a moderator, I realized that I have to be more careful and coincise with all the information and direction that I provide the user to ensure a pleasant experience. 
 
